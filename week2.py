@@ -7,3 +7,5 @@ print(name)
 
 salary = 900000
 print(f"Employee {name} earns  {salary} per month ")
+
+print(f"Salary ")
